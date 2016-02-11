@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "056A0857BAC3D97C22FBEF1E20F4CC13C49219D8",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "178F9D3AF98E4E705A25F0B83205B8FF9174B3D4" : 0,
+    "056A0857BAC3D97C22FBEF1E20F4CC13C49219D8" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "AC8349F9-9A4D-4D3A-8636-8C3CD1F9238E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "178F9D3AF98E4E705A25F0B83205B8FF9174B3D4" : "",
+    "056A0857BAC3D97C22FBEF1E20F4CC13C49219D8" : "Timer-develop\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Timer",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Timer.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/retikak\/Timer-develop.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "056A0857BAC3D97C22FBEF1E20F4CC13C49219D8"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/08cmoss\/Timer.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "178F9D3AF98E4E705A25F0B83205B8FF9174B3D4"
+    }
+  ]
+}

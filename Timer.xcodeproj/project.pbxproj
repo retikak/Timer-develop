@@ -16,6 +16,7 @@
 		7471A38F1C6A8BA500FC23F3 /* TimerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7471A38E1C6A8BA500FC23F3 /* TimerViewController.swift */; };
 		7471A3911C6AABBE00FC23F3 /* AlarmViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7471A3901C6AABBE00FC23F3 /* AlarmViewController.swift */; };
 		7471A3931C6AACA800FC23F3 /* Timer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7471A3921C6AACA800FC23F3 /* Timer.swift */; };
+		791E5C531C6BE7430060EF7A /* Alarm.swift in Sources */ = {isa = PBXBuildFile; fileRef = 791E5C521C6BE7430060EF7A /* Alarm.swift */; };
 		79A072291C6ACA5E00007FC5 /* Colors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79A072281C6ACA5E00007FC5 /* Colors.swift */; };
 		79A0722B1C6ACBC900007FC5 /* AppearanceContoller.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79A0722A1C6ACBC900007FC5 /* AppearanceContoller.swift */; };
 /* End PBXBuildFile section */
@@ -53,6 +54,7 @@
 		7471A38E1C6A8BA500FC23F3 /* TimerViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TimerViewController.swift; sourceTree = "<group>"; };
 		7471A3901C6AABBE00FC23F3 /* AlarmViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AlarmViewController.swift; sourceTree = "<group>"; };
 		7471A3921C6AACA800FC23F3 /* Timer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Timer.swift; sourceTree = "<group>"; };
+		791E5C521C6BE7430060EF7A /* Alarm.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Alarm.swift; sourceTree = "<group>"; };
 		79A072281C6ACA5E00007FC5 /* Colors.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Colors.swift; sourceTree = "<group>"; };
 		79A0722A1C6ACBC900007FC5 /* AppearanceContoller.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppearanceContoller.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -111,6 +113,7 @@
 				7471A3921C6AACA800FC23F3 /* Timer.swift */,
 				7471A3901C6AABBE00FC23F3 /* AlarmViewController.swift */,
 				7471A38E1C6A8BA500FC23F3 /* TimerViewController.swift */,
+				791E5C521C6BE7430060EF7A /* Alarm.swift */,
 				79A072281C6ACA5E00007FC5 /* Colors.swift */,
 				79A0722A1C6ACBC900007FC5 /* AppearanceContoller.swift */,
 				01A6AB441BD55A8600293874 /* LaunchScreen.storyboard */,
@@ -273,6 +276,7 @@
 				79A072291C6ACA5E00007FC5 /* Colors.swift in Sources */,
 				01A6AB6A1BD55B1800293874 /* AppDelegate.swift in Sources */,
 				7471A3911C6AABBE00FC23F3 /* AlarmViewController.swift in Sources */,
+				791E5C531C6BE7430060EF7A /* Alarm.swift in Sources */,
 				7471A3931C6AACA800FC23F3 /* Timer.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
